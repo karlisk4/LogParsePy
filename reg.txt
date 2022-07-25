@@ -1,36 +1,58 @@
+Formula Trout Racing League's Premier Series Season 10
 
-@Junger GP 
- 96 🇩🇪 Max Hamelink [S]
-  5 🇪🇪 Urmas Riis [S]
-@Ox Tan Racing Team 
-Paul Magzire
- 90 🇺🇸 Steven Stevenson [A]
-@DAC Racing 
- 83 🇬🇧 David Halligan [A]
- 47 🇮🇲 Dave Southword [A]
-@Lioneers Racing 
- 45 🇬🇧 Oliver Gibson [C]
- 37 🇳🇱 Kees Willems [B]
-@Vermin Racing Team 
- 11 🇫🇮 Arttu Nieminen [D]
-@Vulpino Racing 
-  8 🇸🇮 Filipe Olson [C]
-@CRG Academy 
- 58 🇬🇧 Toby Sanford [C]
- 93 🇩🇪 Nico Bossert [R]
-@BAG Motorsports 
- 88 🇧🇷 Gustavo Dalla Valle [C]
-@Ace Energy Autosport 
- 50 🇬🇧 Damien De Grasse [D]
-@Concorde Racing Team 
- 69 🇸🇰 Vladislav Mocilenko [D]
-@CRG Racing Ro 
- 82 🇨🇿 Jan Dragoun [B]
- 12 🇨🇭 Simon Benoit [B]
-@Griffin Gaming 
-  7 🇬🇧 Alex Cochrane [A]
-@Scuderia Giovane 
- 17 🇱🇻 Agnis Rozitis [B]
-380 🇳🇱 Jordi Lowjis [B]
-@LGA Motorsport 
- 77 🇹🇷 Ali Gocmen [C]
+
+ Emilia-Romagna Grand Prix
+Round 2 Race 1 (Challenger - 41 Laps)
+23/07/2022 - 18:00 BST
+Driver slots: 31/28
+@The Golf Racing Club 
+ 18 🇷🇴 Ciprian Stoian [A]
+Kilgore Trout
+@Griffin Gaming Red 
+ 87 🇬🇪 Dmitry Kamyshov [C]
+ 19 🇬🇧 Columba Griffiths [C]
+@Junger GP Junior 
+ 60 🇱🇻 Karlis Skirmanis [A]
+901 🇷🇴 Darian Siclovan [R]
+@Supernal Racing 
+ 65 🇺🇸 Spencer Owens [D]
+  2 🇺🇸 Mason Owens [D]
+@Supernal Racing Academy 
+ 31 🇺🇸 Alexander Kron [D]
+ 88 🇪🇸 Alfonso Herrero [D]
+Luca Dolciotti
+@Bootan Motorsport 
+ 70 🇫🇮 Noa Kristian Tuomela [R]
+ 42 🇨🇿 Dan Hajek [R]
+Lucas Thylin 
+@Intercontinental Racing 
+521 🇿🇦 Byron Thompson [R]
+777 🇺🇸 Christian Tennariello [R]
+@BAG Academy 
+
+@Scuderia Interstellar 
+
+@Kings Racing 
+  6 🇿🇦 James Kay [D]
+ 14 🇿🇦 Lesley Peters [D]
+@Interstellar Performance 
+
+450 🇵🇱 Krystian Zielinski [R]
+@Diamondback Racing Team 
+ 40 🇺🇸 William Knowles [R]
+@Horizon Racing Team 
+72 🇺🇸 Jeremy Braucks [R]
+ 75 🇳🇱 Steven Heppener [B] 
+@SatsumaRC 
+222 🇬🇧 Alex Steel [R]
+203 🇬🇧 James Daniels [R]
+@Scuderia Grandi Palle 
+723 🇺🇸 Jacob Anderson [R]
+722 🇺🇸 Joel Anderson [R]
+@Blackbird Racing
+Andreas Leonidou
+
+@Vulpino Arctico 
+ 39 🇮🇪 Forrest McCormack [R]
+@Rising Sun Racing 
+  4 🇺🇸 Carter Jackson [D]
